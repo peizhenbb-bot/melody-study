@@ -1,0 +1,6 @@
+{
+  "name": "蔡沛蓁的學習歷程網站",
+  "description": "高中學生個人學習歷程網站與作品集，支援個人簡介、精選專案、學習時間軸、專長技能與 Firebase 資料管理。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
